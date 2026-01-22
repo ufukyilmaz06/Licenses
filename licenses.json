@@ -1,8 +1,8 @@
 [
   {
     "licenseId": "PC-001",
-    "licenseKey": "A1B2-C3D4",
-    "machineHash": "3f5c8b9e1a",
+    "licenseKey": "1111-1111-1111-1111-1111-1111-1111-1111",
+    "machineHash": "F0EA-9BB1-141E-4854-5A52-C2C2-549C-0A5A",
     "active": true
   },
   {
@@ -12,3 +12,4 @@
     "active": true
   }
 ]
+
