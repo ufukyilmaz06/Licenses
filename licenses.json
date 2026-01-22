@@ -1,0 +1,14 @@
+[
+  {
+    "licenseId": "PC-001",
+    "licenseKey": "A1B2-C3D4",
+    "machineHash": "3f5c8b9e1a",
+    "active": true
+  },
+  {
+    "licenseId": "PC-002",
+    "licenseKey": "Z9X8-C7V6",
+    "machineHash": "",
+    "active": true
+  }
+]
