@@ -3,7 +3,7 @@
     "licenseId": "PC-001",
     "licenseKey": "1111-1111-1111-1111-1111-1111-1111-1111",
     "machineHash": "F0EA-9BB1-141E-4854-5A52-C2C2-549C-0A5A",
-    "active": true
+    "active": false
   },
   {
     "licenseId": "PC-002",
@@ -12,6 +12,7 @@
     "active": true
   }
 ]
+
 
 
 
