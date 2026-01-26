@@ -2,49 +2,92 @@
   {
     "LisansSahibi":"M. U. O.",
     "licenseId": "InstaCekilisYorumSistemi-001",
-    "licenseKey": "1111-1111-1111-1111-1111-1111-1111-1111",
-    "machineHash": "6E08-3EB3-3B7D-4B6C-E2B2-C094-CDA8-24AB",
+    "licenseKey": "A9F3-7K2M-Q8L4-XD6P-2ZWA-9R5C-BN8E-JH4K",
+    "machineHash": " ",
     "active": true,
-    "activeDate": "24.01.2026",
+    "activeDate": " ",
     "status":"Süresiz"
   },
-  {
-    "licenseId": "PC-002",
-    "licenseKey": "1111-1111-1111-1111-1111-1111-1111-9999",
-    "machineHash": "",
-    "active": true,
-    "activeDate": "19.01.2026",
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-002",
+    "licenseKey": "4MZQ-8E7P-KX2A-6L9C-RW5N-F3BD-YHJT-A9C4",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
     "status":"Süresiz"
-  }
+  },
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-003",
+    "licenseKey": "Q7A2-9XKM-5C4E-RD8F-LB6N-WPZJ-YH3T-9A4K",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
+    "status":"Süresiz"
+  },
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-004",
+    "licenseKey": "8RKC-Q4L9-2XWA-ZP5M-FN7E-D6B3-YHJT-KA94",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
+    "status":"Süresiz"
+  },
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-005",
+    "licenseKey": "Z5Q9-LA4R-MKX7-D6F2-P8W3-CNBY-EHJT-49AK",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
+    "status":"Süresiz"
+  },
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-006",
+    "licenseKey": "3W7K-XMZC-RN5A-8F4L-9Q2B-Y6PH-DJTA-K49A",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
+    "status":"Süresiz"
+  },
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-007",
+    "licenseKey": "M9X5-7ZWA-2K4E-QC8L-D6R-FPBY-HNJT-AK49",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
+    "status":"Süresiz"
+  },
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-008",
+    "licenseKey": "K2Q8-5F3C-MX7Z-ALW9-NR6D-BYPH-4JTA-9AK4",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
+    "status":"Süresiz"
+  },
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-009",
+    "licenseKey": "R8LZ-9M5X-AKQ2-7C4F-N3Y6-WBHD-PJTA-K49A",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
+    "status":"Süresiz"
+  },
+{
+    "LisansSahibi":" ",
+    "licenseId": "InstaCekilisYorumSistemi-010",
+    "licenseKey": "XQ7A-8FZL-5M2C-RN9D-6PBK-YW4H-JTAC-A94K",
+    "machineHash": " ",
+    "active": false,
+    "activeDate": " ",
+    "status":"Süresiz"
+  },
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
